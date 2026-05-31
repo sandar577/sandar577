@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Sandar.</h2>
 
-<!--
-**sandar577/sandar577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a software engineer
+- 📫 How to reach me: @chun_lily on telegram
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 
-Here are some ideas to get you started:
+-------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+-------
