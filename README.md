@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm Sandar.</h2>
 
 - 🔭 I’m currently working as a software engineer
+- 🌱 Learning GitHub
 - 📫 How to reach me: @chun_lily on telegram
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
 
