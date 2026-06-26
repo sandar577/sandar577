@@ -21,7 +21,6 @@
 - 🌱 Currently learning **React, AI, and modern system design**
 - 👥 Open to collaborating on projects that improve my skills 🚀
 - 🧠 I enjoy solving problems and building scalable systems
-- 📫 Reach me on Telegram: **@chun_lily**
 - 🐾 Fun fact: I debug code better at night like a real cat 😼
 
 ---
